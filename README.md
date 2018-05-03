@@ -2,6 +2,9 @@
 
 > VueJs de platzi
 
+you can view this app in Url https://ismaeljdz.github.io/MusicVueJs/
+Thanks.
+
 ## Build Setup
 
 ``` bash
